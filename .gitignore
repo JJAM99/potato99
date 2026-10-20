@@ -1,0 +1,6 @@
+data/
+gan_results/
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+.env
